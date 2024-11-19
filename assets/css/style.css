@@ -354,7 +354,7 @@ span.team-mbr img {
   width: 62%;
   padding: 7px 0 0;
   font-family: "DM Sans";
-  color: #1B2843
+  /* color: #FAA61B */
 }
 
 /* mediic Btn */
@@ -1639,7 +1639,7 @@ span.list-pd {
 
 .service-section {
   padding: 30px 50px 120px 210px;
-  background: #1B2843;
+  /* background: #1B2843; */
 }
 
 .single-service-box {
@@ -1860,7 +1860,7 @@ span.list-pd {
   line-height: 50px;
   text-align: center;
   border-radius: 25px;
-  color: #fff;
+  /* color: #fff; */
   background-color: rgba(0, 103, 255, 0);
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
@@ -3103,7 +3103,7 @@ p.posts-reply {
 <!-- ============================================================== -->*/
 
 .footer-section {
-  padding: 120px 0 100px;
+  padding: 60px 0 100px;
   background: var(--primary-color);
   position: relative;
   z-index: 1;
